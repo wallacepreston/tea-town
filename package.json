@@ -1,0 +1,25 @@
+{
+  "name": "tea-town",
+  "version": "1.0.0",
+  "description": "A collection of Tea varieties, stored using a SQLite database",
+  "main": "index.js",
+  "scripts": {
+    "seed:dev": "nodemon db/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallacepreston/tea-town.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallacepreston/tea-town/issues"
+  },
+  "dependencies": {
+    "sqlite3": "5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.15"
+  }
+}
