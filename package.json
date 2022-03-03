@@ -17,6 +17,7 @@
     "url": "https://github.com/wallacepreston/tea-town/issues"
   },
   "dependencies": {
+    "sequelize": "6.17.0",
     "sqlite3": "5.0.2"
   },
   "devDependencies": {
